@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夢はさめても",
+  "base_artist": "TOMOO",
+  "createdAt": "2026-02-19T17:41:03.129310Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢はさめても",
+      "artist": "TOMOO",
+      "has_synced": true,
+      "path": "select/01_夢はさめても_TOMOO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢はさめても",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_夢はさめても_TOMOO.txt"
+    }
+  ]
+}
